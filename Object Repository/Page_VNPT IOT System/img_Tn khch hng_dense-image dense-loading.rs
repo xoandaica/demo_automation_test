@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Tn khch hng_dense-image dense-loading</name>
+   <tag></tag>
+   <elementGuidId>034d5506-b014-4893-8e97-b135f346233d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='frmContractAction']/div/div/div/div/div[2]/div/div[4]/a/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.md-btn.md-btn-success.md-btn-wave-light.waves-effect.waves-button.waves-light > img.dense-image.dense-loading</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/msim_war/theme/assets/photo/search.png</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dense-image dense-loading</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;frmContractAction&quot;)/div[@class=&quot;md-card&quot;]/div[@class=&quot;md-card-content&quot;]/div[@class=&quot;uk-grid&quot;]/div[@class=&quot;uk-width-medium-1-1 uk-row-first&quot;]/div[@class=&quot;uk-form-row&quot;]/div[@class=&quot;uk-grid&quot;]/div[@class=&quot;uk-width-medium-1-4 uk-width-small-1-2 uk-text-right&quot;]/a[@class=&quot;md-btn md-btn-success md-btn-wave-light waves-effect waves-button waves-light&quot;]/img[@class=&quot;dense-image dense-loading&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='frmContractAction']/div/div/div/div/div[2]/div/div[4]/a/img</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/a/img</value>
+   </webElementXpaths>
+</WebElementEntity>

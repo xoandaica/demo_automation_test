@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_HNIDD00800307_uk-icon-angle-double-left</name>
+   <tag></tag>
+   <elementGuidId>ea731853-4f27-44e8-a5f5-3fe80502e912</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.uk-icon-angle-double-left</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='frmSimAction']/div[2]/div/ul/li/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>uk-icon-angle-double-left</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;frmSimAction&quot;)/div[@class=&quot;md-card uk-margin-medium-bottom&quot;]/div[@class=&quot;md-card-content&quot;]/ul[@class=&quot;uk-pagination uk-margin-medium-top&quot;]/li[1]/a[1]/i[@class=&quot;uk-icon-angle-double-left&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='frmSimAction']/div[2]/div/ul/li/a/i</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/ul/li/a/i</value>
+   </webElementXpaths>
+</WebElementEntity>

@@ -19,5 +19,5 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('http://10.15.12.243/')
+WebUI.navigateToUrl('http://203.162.94.42/')
 

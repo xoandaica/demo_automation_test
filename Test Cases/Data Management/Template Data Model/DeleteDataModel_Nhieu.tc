@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DeleteDataModel_Nhieu</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6598da72-9e9c-4a5e-8e21-228e345ab1ae</testCaseGuid>
+   <variable>
+      <defaultValue>'TemaplateAuto1'</defaultValue>
+      <description></description>
+      <id>5d1b6208-64a6-42e4-852a-b0554a7b7e08</id>
+      <masked>false</masked>
+      <name>TemplateName</name>
+   </variable>
+   <variable>
+      <defaultValue>'123@abc'</defaultValue>
+      <description></description>
+      <id>776432f6-454f-4781-991f-b9798b46a28c</id>
+      <masked>false</masked>
+      <name>passwordTenant</name>
+   </variable>
+   <variable>
+      <defaultValue>'nghiepnv@vnpt-technology.vn'</defaultValue>
+      <description></description>
+      <id>51de8f16-3ec6-497d-92a5-f4f7c8e2c4ad</id>
+      <masked>false</masked>
+      <name>emailName</name>
+   </variable>
+</TestCaseEntity>

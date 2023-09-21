@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RegisterTenant_sai</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>76891da0-a92c-4a0a-8824-4ce25f978b58</testCaseGuid>
+   <variable>
+      <defaultValue>'thanhmd@vnpt-technology.vn'</defaultValue>
+      <description></description>
+      <id>ba027e21-3e42-43e7-8931-0064d48f8b43</id>
+      <masked>false</masked>
+      <name>emailName</name>
+   </variable>
+   <variable>
+      <defaultValue>'0987654321'</defaultValue>
+      <description></description>
+      <id>126c6e56-2214-48fb-8e78-8604a692bc8f</id>
+      <masked>false</masked>
+      <name>sdt</name>
+   </variable>
+   <variable>
+      <defaultValue>'hihi'</defaultValue>
+      <description></description>
+      <id>f665f153-3176-4a24-8a75-92c7b5100c22</id>
+      <masked>false</masked>
+      <name>firtName</name>
+   </variable>
+   <variable>
+      <defaultValue>'hihi'</defaultValue>
+      <description></description>
+      <id>c77c187e-5d80-4662-b370-c9bbf420a6e7</id>
+      <masked>false</masked>
+      <name>lastName</name>
+   </variable>
+   <variable>
+      <defaultValue>'việt nam'</defaultValue>
+      <description></description>
+      <id>6b48576c-4ca9-43dd-a4d2-dcefba727eba</id>
+      <masked>false</masked>
+      <name>country</name>
+   </variable>
+   <variable>
+      <defaultValue>'hihi'</defaultValue>
+      <description></description>
+      <id>112cfa47-3576-4175-8523-4722c1ff9e0a</id>
+      <masked>false</masked>
+      <name>company</name>
+   </variable>
+   <variable>
+      <defaultValue>'hihi'</defaultValue>
+      <description></description>
+      <id>e8b6c04d-18b8-4f27-bb9a-8f541db5344f</id>
+      <masked>false</masked>
+      <name>tenantName</name>
+   </variable>
+</TestCaseEntity>

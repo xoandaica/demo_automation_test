@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CreateDataModel_sai - Copy</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d41f79ac-28a5-4b36-a7c0-15125f6d44b2</testCaseGuid>
+   <variable>
+      <defaultValue>'t2'</defaultValue>
+      <description></description>
+      <id>ab3d59e9-cee7-4a66-8cd3-f4b0f820f920</id>
+      <masked>false</masked>
+      <name>TemplateName</name>
+   </variable>
+   <variable>
+      <defaultValue>'t3'</defaultValue>
+      <description></description>
+      <id>66e1adc8-72d5-4746-a0bb-6c8a7557c021</id>
+      <masked>false</masked>
+      <name>DescriptionTemplate</name>
+   </variable>
+   <variable>
+      <defaultValue>'djgtdfsghjgfhjdsfgjdhsgfjhdgfhjsgfjsdgfdshjfggddgdhdjgtdfsghjgfhjdsfgjdhsgfjhdgfhjsgfjsdgfdshjfggddgdhdjgtdfsghjgfhjdsfgjdhsgfjhdgfhjsgfjsdgfdshjfggddgdhdjgtdfsghjgfhjdsfgjdhsgfjhdgfhjsgfjsdgfdshjfggddgdhdjgtdfsghjgfhjdsfgjdhsgfjhdgfhjsgfjsdgfdshjfggddgdhd'</defaultValue>
+      <description></description>
+      <id>785aa946-d53f-4531-98ae-c18653c65657</id>
+      <masked>false</masked>
+      <name>TelemetryName1</name>
+   </variable>
+   <variable>
+      <defaultValue>'t'</defaultValue>
+      <description></description>
+      <id>e680fdf8-0354-4edd-8f9a-af67d60cafee</id>
+      <masked>false</masked>
+      <name>TelemetryUom1</name>
+   </variable>
+</TestCaseEntity>

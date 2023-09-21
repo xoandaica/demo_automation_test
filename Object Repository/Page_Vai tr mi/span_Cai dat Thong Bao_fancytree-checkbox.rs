@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Cai dat Thong Bao_fancytree-checkbox</name>
+   <tag></tag>
+   <elementGuidId>5bc74ca6-1860-4d12-90b0-53bd62e4d6a1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[2]/div[2]/div/div/form/div[2]/div[2]/div[1]/div/div/div/div[2]/div/ul/li/ul/li[5]/span/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fancytree-checkbox</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tFilter&quot;)/ul[@class=&quot;ui-fancytree fancytree-container fancytree-plain fancytree-treefocus&quot;]/li[@class=&quot;fancytree-lastsib&quot;]/ul[1]/li[6]/span[@class=&quot;fancytree-node fancytree-folder fancytree-has-children fancytree-exp-c fancytree-ico-cf&quot;]/span[@class=&quot;fancytree-checkbox&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>/html/body/div[2]/div[2]/div/div/form/div[2]/div[2]/div[1]/div/div/div/div[2]/div/ul/li/ul/li[5]/span/span[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]/span/span[2]</value>
+   </webElementXpaths>
+</WebElementEntity>

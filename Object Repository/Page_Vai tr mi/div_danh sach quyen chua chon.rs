@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_danh sach quyen chua chon</name>
+   <tag></tag>
+   <elementGuidId>815efc1c-45dc-475f-a8f8-65e9055d531d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='page_content_inner']/div[2]/div/div/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>uk-width-medium-1-1</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                    Quản Trị Hệ ThốngNgười DùngTạoXemCập NhậtXóaVai TròTạoXemCập NhậtXóaQuyềnXemTenantTạoXemCập NhậtXóaCài Đặt Thông BáoXemCập NhậtLogXemXóaApplicationTạoXemCập NhậtXóaDeviceTạoXemCập NhậtXóaData Mgt TemplateTạoXemCập NhậtXóaData Mgt DashboardTạoXemCập NhậtXóaGroupTạoXemCập NhậtXóaData Mgt WidgetTạoXemCập NhậtXóaIPEXemTạoXóaDeviceTemplateTạo
+                                </value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page_content_inner&quot;)/div[@class=&quot;uk-grid data-uk-grid-margin&quot;]/div[@class=&quot;uk-width-medium-2-5&quot;]/div[@class=&quot;md-card&quot;]/div[@class=&quot;md-card-content&quot;]/div[@class=&quot;uk-grid uk-margin-small-bottom&quot;]/div[@class=&quot;uk-width-medium-1-1&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page_content_inner']/div[2]/div/div/div/div/div[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Các quyền có sẵn'])[1]/following::div[5]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mô tả'])[1]/following::div[10]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div[2]</value>
+   </webElementXpaths>
+</WebElementEntity>

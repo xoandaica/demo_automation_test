@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ins_Chi tit Apn_iCheck-helper_1_2</name>
+   <tag></tag>
+   <elementGuidId>4de0f0d0-0334-4920-b352-cb6c062c8278</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='createRoleMgnt']/div/div/div[2]/div[2]/div/div/div/p[3]/div/ins</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.icheckbox_md.hover.active > ins.iCheck-helper</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>ins</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>iCheck-helper</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;createRoleMgnt&quot;)/div[@class=&quot;md-card&quot;]/div[@class=&quot;md-card-content&quot;]/div[@class=&quot;uk-grid&quot;]/div[@class=&quot;uk-width-1-2&quot;]/div[@class=&quot;uk-accordion&quot;]/div[1]/div[@class=&quot;uk-accordion-content uk-active&quot;]/p[3]/div[@class=&quot;icheckbox_md hover active&quot;]/ins[@class=&quot;iCheck-helper&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='createRoleMgnt']/div/div/div[2]/div[2]/div/div/div/p[3]/div/ins</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[3]/div/ins</value>
+   </webElementXpaths>
+</WebElementEntity>

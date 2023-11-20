@@ -6,7 +6,7 @@
    <UUID>8eda1f62-d297-48cf-9300-fc81ee698c85</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-   <projectFileLocation>D:\m2m\katalon\newkata\msim-automation-test\msim.prj</projectFileLocation>
+   <projectFileLocation>D:\STC_VQMAN\file-test\demo_automation_test\msim.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
@@ -25,5 +25,6 @@
          </systemFolderConfiguration>
       </systemFolderList>
    </sourceContent>
+   <timeStampInProperties>true</timeStampInProperties>
    <type>WEBUI</type>
 </Project>

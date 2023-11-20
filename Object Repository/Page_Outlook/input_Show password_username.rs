@@ -3,15 +3,15 @@
    <description></description>
    <name>input_Show password_username</name>
    <tag></tag>
-   <elementGuidId>e598a69d-9653-48b4-a757-801d7bad8fe6</elementGuidId>
+   <elementGuidId>b2bdbcbf-6dab-49e8-8cb5-5a11c00705ca</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#username</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//input[@id='username']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#username</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

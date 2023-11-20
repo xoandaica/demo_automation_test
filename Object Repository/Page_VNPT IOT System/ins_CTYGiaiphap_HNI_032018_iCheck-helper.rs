@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ins_CTYGiaiphap_HNI_032018_iCheck-helper</name>
+   <tag></tag>
+   <elementGuidId>d015a933-9ad0-4510-a9ef-64d24f0f9ee5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.icheckbox_md.hover > ins.iCheck-helper</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='frmSimAction']/div[2]/div/div/table/tbody/tr[6]/td/div/ins</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>ins</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>iCheck-helper</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;frmSimAction&quot;)/div[@class=&quot;md-card uk-margin-medium-bottom&quot;]/div[@class=&quot;md-card-content&quot;]/div[@class=&quot;uk-overflow-container&quot;]/table[@class=&quot;uk-table uk-table-nowrap&quot;]/tbody[1]/tr[6]/td[@class=&quot;uk-text-center&quot;]/div[@class=&quot;icheckbox_md hover&quot;]/ins[@class=&quot;iCheck-helper&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='frmSimAction']/div[2]/div/div/table/tbody/tr[6]/td/div/ins</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[6]/td/div/ins</value>
+   </webElementXpaths>
+</WebElementEntity>

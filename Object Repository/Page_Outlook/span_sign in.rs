@@ -3,15 +3,15 @@
    <description></description>
    <name>span_sign in</name>
    <tag></tag>
-   <elementGuidId>1cb0b0ad-a58b-4e68-b07e-d9062560ccc6</elementGuidId>
+   <elementGuidId>5be5d7c8-bbbe-4675-b758-199c50560c95</elementGuidId>
    <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='lgnDiv']/div[9]/div/span</value>
+      </entry>
       <entry>
          <key>CSS</key>
          <value>span.signinTxt</value>
-      </entry>
-      <entry>
-         <key>XPATH</key>
-         <value>/html/body/form/div/div[2]/div/div[9]/div/span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -49,7 +49,7 @@
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>/html/body/form/div/div[2]/div/div[9]/div/span</value>
+      <value>//div[@id='lgnDiv']/div[9]/div/span</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

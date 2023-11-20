@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_i tng ()                               _ccf215</name>
+   <tag></tag>
+   <elementGuidId>6c8a7e20-aee8-4fb1-b45b-fac17848bcca</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#rateObject</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='rateObject']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>uk-width-medium-1-3 uk-width-small-1-2</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>rateObject</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                Đối tượng (*)
+									
+                                evn3_hnievn3_hniEVNHNI_C01EVNHNI_C02EVNHNI_C03EVNHNI_C04EVNHNI_C06EVNHNI_C07EVNHNI_C13EVNHNI_C14EVNHNI_C17EVNHNI_C18EVNHNI_C19EVNHNI_C20EVNHNI_C21EVNHNI_C25EVNHNI_C26EVNHNI_C27EVNHNI_C29C29lathuhangCTY_GP_antoanEVN_HNI_TESTCongtyABCEVNHNI_C09EVNHNI_C28evn1_hnievn2_hniEVN_HNIngovnpmtkhdnkhdn1vnpt32VTU_NGUYENCHAULONGlqui_aggEVNHNI_C05EVNHNI_C08EVNHNI_C10EVNHNI_C11EVNHNI_C12EVNHNI_C15EVNHNI_C16EVNHNI_C22EVNHNI_C23EVNHNI_C24EVNHNI_C30demotinhnanggd2vinhhienjvasiaG-Innovationsth_so_vetinh_vntongcuchaiquantruyenthongtnttctvantaihndn2_cty_binh_anhdn1_cty_trung_tindn2_ptcndt_binhanhdddtphanoiadminbinhanhdn1_cty_ict_quocgiaEVNSPChenry_eup_net_vndn2_npcit_2Evnnpc2skysoftIgoteldn2_npcitd1_cty_sessesdn2_tstatcom_testquangndMobile_VPNddk_hniNLDKmenntkhhn1HuyenCustomernghiepnvkhachhn3sinhnvkhachhn1khachhn2menntkhhn2menntkhxoa2
+                            </value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rateObject&quot;)</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='rateObject']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='frmCreateRating']/div/div/div/div[4]/div[3]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hà Nội'])[2]/following::div[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(*)'])[6]/following::div[5]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[3]</value>
+   </webElementXpaths>
+</WebElementEntity>

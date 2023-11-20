@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ins_Hin th Chn tt c337723SIMs_iCheck-helper</name>
+   <tag></tag>
+   <elementGuidId>9ff8d827-ecb7-42a1-9515-bc036f46a4d0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='frmSimAction']/div[2]/div/div/div[2]/div/div/ins</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ins.iCheck-helper</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>ins</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>iCheck-helper</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;frmSimAction&quot;)/div[@class=&quot;md-card uk-margin-medium-bottom&quot;]/div[@class=&quot;md-card-content&quot;]/div[@class=&quot;uk-overflow-container&quot;]/div[@class=&quot;uk-grid&quot;]/div[@class=&quot;uk-width-1-2 uk-row-first&quot;]/div[@class=&quot;icheckbox_md hover&quot;]/ins[@class=&quot;iCheck-helper&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='frmSimAction']/div[2]/div/div/div[2]/div/div/ins</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ins</value>
+   </webElementXpaths>
+</WebElementEntity>

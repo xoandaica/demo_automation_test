@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ins_Chi tit Apn_iCheck-helper</name>
+   <tag></tag>
+   <elementGuidId>1d1e86cb-2aca-47d5-82c8-4cf31de96e46</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='page_content_inner']/div/div/div[2]/div[2]/div/div/div/p[2]/div/ins</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>ins</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>iCheck-helper</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page_content_inner&quot;)/div[@class=&quot;md-card&quot;]/div[@class=&quot;md-card-content&quot;]/div[@class=&quot;uk-grid&quot;]/div[@class=&quot;uk-width-1-2&quot;]/div[@class=&quot;uk-accordion&quot;]/div[1]/div[@class=&quot;uk-accordion-content uk-active&quot;]/p[2]/div[@class=&quot;icheckbox_md disabled&quot;]/ins[@class=&quot;iCheck-helper&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page_content_inner']/div/div/div[2]/div[2]/div/div/div/p[2]/div/ins</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[2]/div/ins</value>
+   </webElementXpaths>
+</WebElementEntity>

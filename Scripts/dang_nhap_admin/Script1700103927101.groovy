@@ -19,6 +19,8 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('Open_Web'), [:], FailureHandling.STOP_ON_FAILURE)
 
+WebUI.delay(10)
+
 WebUI.setText(findTestObject('Object Repository/Page_VNPT IOT System/input_Power by VinaPhone_username'), 'admin')
 
 WebUI.setEncryptedText(findTestObject('Page_VNPT IOT System/input_Power by VinaPhone_password'), 'RAIVpflpDOg=')
